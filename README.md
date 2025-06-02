@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-she/her
-#programmingbeginner
-studying computer science @ UTS!
-future data analyst
+she/her  
+#programmingbeginner  
+studying computer science @ UTS!  
+future data analyst  
 
 <!--
 **maeyyb/maeyyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
